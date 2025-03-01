@@ -92,7 +92,6 @@ The main goal is to achieve high-quality text-to-3D reconstruction with lower co
 
 https://github.com/user-attachments/assets/824f3cd2-b208-4fb1-8695-597177a7c761
 
-
 ## Papers and Research
 
 Learn more about the technologies used in this project:
