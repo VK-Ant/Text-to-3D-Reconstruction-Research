@@ -67,7 +67,7 @@ evaluated, ensuring high-quality outputs tailored to real-world scenarios.
 ### **1. Download the 3d reconstruction models in my below representing drive and change directory in colab**
 
 ```bash
-Download all 3d reconstuction model: https://drive.google.com/drive/folders/1-3Oq4MBrOuIt_5WlNGtth0m58KacvARc?usp=sharing
+https://drive.google.com/drive/folders/1-3Oq4MBrOuIt_5WlNGtth0m58KacvARc?usp=sharing
 ```
 Make sure the path is correct.
 
