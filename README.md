@@ -64,11 +64,10 @@ evaluated, ensuring high-quality outputs tailored to real-world scenarios.
 
 ## **STEPS TO FOLLOW IN THIS PROJECT:**
 
-### **1. Git clone and change directory: if you cannot able to use my TripoSR model utilize this below**
+### **1. Download the 3d reconstruction models in my below representing drive and change directory in colab**
 
 ```bash
-git clone https://github.com/bohdanvodianyk/line-art-to-3d.git
-cd line-art-to-3d #Change the directory as per your path
+Download all 3d reconstuction model: https://drive.google.com/drive/folders/1-3Oq4MBrOuIt_5WlNGtth0m58KacvARc?usp=sharing
 ```
 Make sure the path is correct.
 
